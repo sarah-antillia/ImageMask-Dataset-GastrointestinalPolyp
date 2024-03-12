@@ -138,7 +138,7 @@ This command does the following image processings to generate the augmented test
 <br>
 
 You can download the augmented dataset from the google drive 
-<a href="https://drive.google.com/file/d/1E8qG7b_jKXAmvy777N5lqzg_fRzY8WjX/view?usp=sharing
+<a href="https://drive.google.com/file/d/1E8qG7b_jKXAmvy777N5lqzg_fRzY8WjX/view?usp=sharing">
 Augmented-GastrointestinalPolyp-ImageMask-Dataset.zip</a> (2024/03/12)
 
 
